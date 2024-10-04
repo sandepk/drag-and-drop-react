@@ -1,0 +1,10 @@
+.note__container {
+  width: 200px;
+  padding: 20px;
+  user-select: none;
+  margin: 20px;
+  position: absolute;
+  border: 1px solid black;
+  cursor: move;
+  background-color: lightyellow;
+}
